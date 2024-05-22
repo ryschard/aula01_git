@@ -9,4 +9,4 @@ aula01.js
 ## segundo codigo em javascript
 esse e um projeto de teste dos nossos primeiros codigos. blalbalbba
 
-aula02.js
+aula02.jsS
